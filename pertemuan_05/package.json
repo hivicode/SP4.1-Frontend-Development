@@ -1,0 +1,11 @@
+{
+  "name": "pertemuan-05",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd ecommerce-mysql && npm run dev"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "mysql2": "^3.20.0"
+  }
+}
